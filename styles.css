@@ -1,0 +1,372 @@
+.title-name {
+  z-index: 1;
+}
+
+.name {
+  color: #f57b51;
+  text-shadow: 2.5px 2.5px black;
+  font-family: 'Anton', sans-serif;
+  font-size: 8.5rem;
+  text-align: right;
+}
+
+.name-black {
+  color: black;
+  font-family: 'Anton', sans-serif;
+  font-size: 8.5rem;
+  text-align: right;
+}
+
+.coloured-section {
+  background-color: #ffe277;
+  color: black;
+  position: relative;
+}
+
+.contact-section {
+  background-color: #ffe277;
+  position: relative;
+  padding-top: 7%;
+  padding-bottom: 10%;
+}
+
+.second-section {
+  padding-top: 5%
+}
+
+.third-section {
+  padding-top: 5%
+}
+
+.fourth-section {
+  padding-top: 5%
+}
+
+footer {
+  background-color: #ffe277;
+  padding-bottom: 5%;
+}
+
+.description {
+  color: black;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 3.0rem;
+  text-align: left;
+}
+
+.goals {
+  color: black;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 3.0rem;
+  text-align: right;
+}
+
+.project-name {
+  color: black;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 3.0rem;
+  text-align: left;
+}
+
+.contact {
+  color: black;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 3.0rem;
+  text-align: right;
+}
+
+.last {
+  padding-top: 5%;
+}
+
+.copyright {
+  color: black;
+  text-align: center;
+  font-family: 'Jost', sans-serif;
+}
+
+.different-colour {
+  color: #f57b51;
+  text-shadow: 2.5px 2.5px black;
+}
+
+.paragraph-des {
+  width: 60%
+}
+
+.paragraph-goals {
+
+}
+
+.navbar {
+  padding: 0 0 1.5rem;
+  background-color: #ffe277;
+  z-index: 3;
+}
+
+.nav-link {
+  color: black;
+  font-family: 'Jost', sans-serif;
+}
+
+.nav-link:hover {
+  color: white;
+}
+.navbar-brand {
+  color: black;
+  font-family: 'Anton', sans-serif;
+  font-size: 2rem;
+}
+
+.lemon-img {
+  width: 30%;
+  position: absolute;
+  top: 30px;
+  left: 10px;
+  z-index: 1;
+}
+
+.lemon-img-2 {
+  width: 20%;
+  position: absolute;
+  transform: rotate(100deg);
+  top: 100px;
+  left: 400px;
+  z-index: 1;
+}
+
+.lemon-img-3 {
+  width: 25%;
+  position: absolute;
+  transform: rotate(180deg);
+  top: 550px;
+  left: 200px;
+  z-index: 1;
+}
+
+.lemon-img-4 {
+  width: 25%;
+  position: absolute;
+  transform: rotate(270deg);
+  top: 450px;
+  left: 10px;
+  z-index: 1;
+}
+
+.lemon-img-5 {
+  width: 15%;
+  position: absolute;
+  transform: rotate(100deg);
+  top: 300px;
+  left: 300px;
+  z-index: 1;
+}
+
+.lemon-img-6 {
+  width: 35%;
+  position: absolute;
+  transform: rotate(200deg);
+  top: -80px;
+  left: 140px;
+  z-index: 1;
+}
+
+.lemon-img-7 {
+  width: 35%;
+  position: absolute;
+  transform: rotate(120deg);
+  top: -10px;
+  left: -140px;
+  z-index: 1;
+}
+
+.lemon-img-8 {
+  width: 35%;
+  position: absolute;
+  transform: rotate(250deg);
+  top: -150px;
+  left: -250px;
+  z-index: 1;
+}
+
+.lemon-img-9 {
+  width: 25%;
+  position: absolute;
+  transform: rotate(200deg);
+  top: 350px;
+  left: -150px;
+  z-index: 1;
+}
+
+.lemon-img-10 {
+  width: 25%;
+  position: absolute;
+  transform: rotate(160deg);
+  top: 280px;
+  left: 50px;
+  z-index: 1;
+}
+
+.lemon-img-11 {
+  width: 25%;
+  position: absolute;
+  transform: rotate(80deg);
+  top: 480px;
+  left: -80px;
+  z-index: 1;
+}
+
+.lemon-img-12 {
+  width: 20%;
+  position: absolute;
+  transform: rotate(300deg);
+  top: 410px;
+  left: 170px;
+  z-index: 1;
+}
+
+.lemon-img-13 {
+  width: 20%;
+  position: absolute;
+  transform: rotate(30deg);
+  top: 150px;
+  left: 280px;
+  z-index: 1;
+}
+
+.container-fluid {
+  padding: 2% 8%;
+}
+
+.nav-item {
+  padding: 0 18px 0 18px;
+}
+
+.slice-1 {
+  position: absolute;
+  width: 40%;
+  bottom: -200px;
+  right: -250px;
+}
+
+.slice-2 {
+  position: absolute;
+  width: 20%;
+  bottom: -100px;
+  right: 250px;
+}
+
+.slice-3 {
+  position: absolute;
+  width: 30%;
+  bottom: -60px;
+  right: 80px;
+}
+
+.slice-4 {
+  position: absolute;
+  width: 25%;
+  bottom: -170px;
+  right: 40px;
+}
+
+.slice-5 {
+  position: absolute;
+  width: 15%;
+  bottom: 100px;
+  right: 400px;
+}
+
+.lemons {
+  position: absolute;
+  width: 30%;
+  bottom: 10px;
+  right: 0px;
+}
+
+.lemons-2 {
+  position: absolute;
+  transform: rotate(180deg);
+  width: 37%;
+  bottom: 20px;
+  left: -10px;
+}
+
+.divider {
+  position: absolute;
+  width: 100%;
+  bottom: -400px;
+}
+
+.divider-section {
+  position: relative;
+  padding: 0px;
+  height: 400px;
+  background-color: #ffe277;
+}
+
+.project-type {
+  color: black;
+  font-family: 'Jost', sans-serif;
+  font-size: 1.0rem;
+}
+
+.nophish-1 {
+  width: 50%;
+  bottom: -200px;
+  left: 8%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.drum-kit-img {
+  width: 50%;
+  bottom: -200px;
+  left: 8%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.project-des {
+  color: black;
+  font-family: 'Jost', sans-serif;
+  font-size: 1.5rem;
+  width: 63%;
+  padding-bottom: 2%;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.nophish-button {
+	background:linear-gradient(to bottom, #f57b51 5%, #f57b51 100%);
+	background-color:#f57b51;
+	border-radius:3px;
+	border:1px solid #f57b51;
+	display:inline-block;
+	cursor:pointer;
+	color: black;
+	font-family: 'Jost', sans-serif;
+	font-size:13px;
+	padding:10px 24px;
+	text-decoration:none;
+}
+.nophish-button:hover {
+	background:linear-gradient(to bottom, #ffd31d 5%, #ffd31d 100%);
+	background-color:#ffd31d;
+  border-radius:3px;
+	border:1px solid #ffd31d;
+}
+.nophish-button:active {
+	position:relative;
+	top:1px;
+}
